@@ -4,7 +4,7 @@ Marvel Marvel is a web application that allows users to explore and search for s
 Table of Contents Features Usage Project Structure Contributing License Features Search for superheroes by name. View detailed information about a superhero. Add superheroes to your favorites list for quick access. Usage Run the application:
 
 bash Copy code npm start Open your browser and go to :
-https://replit.com/@rohanjadhavronn/SuperHeroHunt#script.js
+https://replit.com/@rohanjadhavronn/SuperHeroHunt#index.html
 
 Enter the name of the superhero in the search bar.
 
